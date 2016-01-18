@@ -7,7 +7,7 @@ The starterkit I used are: https://github.com/alicoding/react-webpack-babel
 ### To replicate
 
 ```
-> $ git clone git@github.com:Agowan/twb-4-dark-navbar-problem.git && cd twb-4-dark-navbar-problem
+> $ git clone git@github.com:Agowan/twbs-4-dark-navbar-problem.git && cd twbs-4-dark-navbar-problem
 ```
 
 ```
