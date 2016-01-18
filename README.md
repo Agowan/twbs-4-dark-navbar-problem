@@ -1,33 +1,21 @@
-# react-webpack-babel
-Simple React Webpack Babel Starter Kit
+# Note
+**This is a bugreport for https://github.com/shakacode/bootstrap-loader.**
 
 
-This is a simple [React](https://facebook.github.io/react/), [Webpack](http://webpack.github.io/) and [Babel](https://babeljs.io/) application with nothing else in it.
+The starterkit I used are: https://github.com/alicoding/react-webpack-babel
 
-### What's in it?
-
-Just a simple [index.jsx](./index.jsx), [webpack.config.js](./webpack.config.js) and [index.html](./public/index.html) file.
-
-### To run
-
-Install webpack and the development server:
+### To replicate
 
 ```
-> $ npm i webpack-dev-server webpack -g
+> $ git clone git@github.com:Agowan/twb-4-dark-navbar-problem.git && cd twb-4-dark-navbar-problem
 ```
 
-You can simply run webpack build using this command: 
-
 ```
-> $ npm run build
+> $ npm install
 ```
-
-If you want to run with webpack-dev-server simply run this command: 
 
 ```
 > $ npm run dev
 ```
 
 Open the web browser to `http://localhost:8080/`
-
-Please contribute to the project if you think this can be done better in anyway even for this README :)
